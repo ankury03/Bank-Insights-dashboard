@@ -66,4 +66,4 @@ To deliver a single, interactive reporting interface that helps analysts and sta
 - Enhanced Transparency: Makes loan lifecycle data accessible, navigable, and actionable for non-technical teams.
 
 ### Screenshot
-
+https://github.com/ankury03/Bank-Insights-dashboard/blob/main/Dashboard%20Image.png
